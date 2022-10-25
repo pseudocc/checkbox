@@ -1,3 +1,9 @@
+checkbox-ng (1:2.0.0+bashcompletion) jammy; urgency=medium
+
+  * Upload to my personal PPA.
+
+ -- Atlas Yu <atlas.yu@canonical.com>  Tue, 25 Oct 2022 16:06:52 +0800
+
 checkbox-ng (2.1.0) unstable; urgency=medium
 
   [ Atlas Yu ]
