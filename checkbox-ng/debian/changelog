@@ -1,3 +1,11 @@
+checkbox-ng (2.1.0) unstable; urgency=medium
+
+  [ Atlas Yu ]
+  * Minor version: bash completion for checkbox-ng.
+  * new upstream version
+
+ -- Atlas Yu <atlas.yu@canonical.com>  Mon, 24 Oct 2022 17:33:20 +0800
+
 checkbox-ng (2.0.0) unstable; urgency=medium
 
   * new upstream version
