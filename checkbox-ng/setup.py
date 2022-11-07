@@ -51,6 +51,7 @@ else:
         'Jinja2 >= 2.7',
         'xlsxwriter',
         'tqdm',
+        'argcomplete >= 1.8',
     ]
 
 setup(

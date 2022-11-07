@@ -182,6 +182,7 @@ parts:
       - python3-requests-oauthlib
       - python3-urwid
       - python3-xlsxwriter
+      - python3-argcomplete
       # added to stage python:
       - libpython3-stdlib
       - libpython3.10-stdlib
